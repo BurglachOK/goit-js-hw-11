@@ -1,1 +1,1 @@
-h
+const ofo = 0; 
